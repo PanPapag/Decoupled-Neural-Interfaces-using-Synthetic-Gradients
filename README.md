@@ -12,9 +12,9 @@ Training directed neural networks typically requires forward-propagating data th
 
 ## Datasets and Models
 
-Currently this repo only test MNIST dataset with Feed-Forward NN. Feel free to contribute and build experiments with other datasets (Cifar10, Shakespeare, etc) and models (CNN, RNN, etc.)
+Currently this repo only test MNIST dataset with Feed-Forward NN. Feel free to contribute and build experiments with other datasets (Cifar10, Shakespeare, etc) and models (CNN, RNN, etc.).
 
 ## Training 
 
-```train.py``` can make all the works for you. To experiment with hyperaparameters check the command-line arguments
+```train.py``` can make all the work for you. To experiment with hyperaparameters check the command-line arguments.
  
