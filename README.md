@@ -16,7 +16,5 @@ Currently this repo only test MNIST dataset with Feed-Forward NN. Feel free to c
 
 ## Training 
 
-```
-train.py
-```
+```train.py``` can make all the works for you. To experiment with hyperaparameters check the command-line arguments
  
