@@ -3,7 +3,7 @@ import torch.nn as nn
 import numpy as np
 
 class SyntheticGradients(nn.Module):
-    def __init__(self, input_size=784, hidden_layer_sizes=[1024, 1024], num_classes=10, conditioned=False):
+    def __init__(self, input_size=784, hidden_layer_sizes=[1024], num_classes=10, conditioned=False):
         super(SyntheticGradients, self).__init__()
         self.input_size = input_size
         self.conditioned = conditioned
